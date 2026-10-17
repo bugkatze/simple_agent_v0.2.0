@@ -1,0 +1,5 @@
+[safety]
+# strict_mode 控制代码安全审查。
+# true = 开启严格审查（默认），拦截潜在危险系统命令。
+# false = 低审查模式，允许大模型自由执行。强烈建议仅在虚拟机(VM)中使用！
+strict_mode = true

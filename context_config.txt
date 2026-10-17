@@ -1,0 +1,35 @@
+[context]
+enabled=false
+root_dir=.
+
+include_dirs=
+    input
+    seed
+
+extensions=
+    .py
+    .json
+    .html
+    .css
+    .js
+    .ts
+    .yaml
+    .yml
+    .toml
+    .md
+    .txt
+    .csv
+    .xml
+
+batch_limit_kb=10
+
+max_files=100
+
+encoding=utf-8
+
+include_manifest=true
+
+include_file_metadata=true
+
+sort_files=true
+
