@@ -31,7 +31,7 @@ LLM 交互：将当前网页结构和任务目标发送给大模型（如 DeepSe
 
 Python 版本：Python 3.10+
 
-所需库：
+所需库:requirements.txt
 
 浏览器：系统中已安装Microsoft Edge
 
